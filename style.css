@@ -25,7 +25,7 @@ body {
     transform: scale(1.8); 
     margin: 90px;
 }
-/* === SCREEN === */
+/* === EKRAN === */
 .screen-frame {
     position: relative;
     background: #9da0a6;
@@ -628,3 +628,4 @@ body {
     mask-composite: add; 
 
 }
+
